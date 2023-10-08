@@ -14,6 +14,11 @@
 ## Large Language Model (LLM)
 
 ## Vision Foundation Model (VFM)
+1. SAM: Segment Anything Model [ICCV 2023 Best Paper Honorable Mention] [[paper]](https://arxiv.org/pdf/2304.02643.pdf) [[code]](https://github.com/facebookresearch/segment-anything) 
+2. SSA: Semantic segment anything [github 2023] [paper] [[code]](https://github.com/fudan-zvg/Semantic-Segment-Anything)
+3. SEEM: Segment Everything Everywhere All at Once [arXiv 2304] [[paper]](https://arxiv.org/pdf/2304.06718.pdf) [[code]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+5. RAM: Recognize Anything - A Strong Image Tagging Model [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.03514.pdf) [[code]](https://github.com/xinyu1205/Recognize_Anything-Tag2Text) 
+6. Semantic-SAM: Segment and Recognize Anything at Any Granularity [arXiv 2307] [[paper]](https://browse.arxiv.org/pdf/2307.04767.pdf) [[code]](https://github.com/UX-Decoder/Semantic-SAM) 
 
 ## Multimodal Large Language Model (MLLM) / Large Multimodal Model (LMM) 
 1. LAVIS: A Library for Language-Vision Intelligence [ACL 2023] [[paper]](https://browse.arxiv.org/pdf/2209.09019.pdf) [[code]](https://github.com/salesforce/LAVIS)
