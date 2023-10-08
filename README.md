@@ -18,6 +18,12 @@
 ## Multimodal Large Language Model (MLLM) / Large Multimodal Model (LMM) 
 
 ## Modern Autonomous Driving (MAD)
+### End-to-End Solution
+1. UniAD: Planning-oriented Autonomous Driving [CVPR2023] [[paper]](https://arxiv.org/pdf/2212.10156.pdf) [[code]](https://github.com/OpenDriveLab/UniAD)
+2. Scene as Occupancy [arXiv2306] [[paper]](https://arxiv.org/pdf/2306.02851.pdf) [[code]](https://github.com/OpenDriveLab/OccNet)
+3. FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving [arXiv2308] [[paper]](https://arxiv.org/pdf/2308.01006.pdf) [[code]](https://github.com/westlake-autolab/FusionAD)
+### with Large Language Model
+1. Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [arXiv2307] [[paper]](https://arxiv.org/pdf/2307.07162.pdf) [[code]](https://github.com/PJLab-ADG/DriveLikeAHuman)
 
 ## Embodied AI (EAI)
 
@@ -26,3 +32,5 @@
 ## Artificial General Intelligence (AGI)
 
 ## SOTA Downstream Task
+
+## New Dataset
