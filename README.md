@@ -1,4 +1,5 @@
 # <p align="center">Awesome Modern Artificial Intelligence</p>  
+<div align="center"><img src="https://emtemp.gcom.cloud/ngw/globalassets/en/articles/images/hype-cycle-for-artificial-intelligence-2023.png"/></div>  
 
 ## Large Model Evolutionary Graph
 <details>
