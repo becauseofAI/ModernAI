@@ -40,10 +40,13 @@
 3. FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving [arXiv 2308] [[paper]](https://arxiv.org/pdf/2308.01006.pdf) [[code]](https://github.com/westlake-autolab/FusionAD)
 ### with Large Language Model
 1. Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [arXiv 2307] [[paper]](https://arxiv.org/pdf/2307.07162.pdf) [[code]](https://github.com/PJLab-ADG/DriveLikeAHuman)
+2. LINGO-1: Exploring Natural Language for Autonomous Driving (Vision-Language-Action Models, VLAMs) [Wayve 2309] [[blog]](https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/)
 
 ## Embodied AI (EAI)
 
 ## World Model
+1. MILE: Model-Based Imitation Learning for Urban Driving [Wayve 2210] [NeurIPS 2022] [[paper]](https://arxiv.org/pdf/2210.07729.pdf) [[code]](https://github.com/wayveai/mile) [[blog]](https://wayve.ai/thinking/learning-a-world-model-and-a-driving-policy/)
+1. GAIA-1: A Generative World Model for Autonomous Driving [Wayve 2310] [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.17080.pdf) [code]
 
 ## Artificial General Intelligence (AGI)
 
