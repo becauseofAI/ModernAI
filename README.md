@@ -11,6 +11,8 @@
 <div align="center"><img src="https://github.com/RUCAIBox/LLMSurvey/blob/main/assets/llama-0628-final.png"/></div>  
 </details>
 
+## Survey
+
 ## Large Language Model (LLM)
 
 ## Vision Foundation Model (VFM)
