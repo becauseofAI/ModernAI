@@ -48,4 +48,6 @@
 
 ## SOTA Downstream Task
 
+## New Method
+
 ## New Dataset
