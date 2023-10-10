@@ -57,3 +57,5 @@
 ## New Method
 
 ## New Dataset
+1. DriveLM: Drive on Language [paper] [[project]](https://github.com/OpenDriveLab/DriveLM)
+2. Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[paper]](https://robotics-transformer-x.github.io/paper.pdf) [[project]](https://robotics-transformer-x.github.io/) [[blog]](https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types)
