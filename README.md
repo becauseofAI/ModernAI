@@ -63,6 +63,7 @@
 ## SOTA Downstream Task
 
 ## New Method
+1. [Instruction Tuning] FLAN: Finetuned Language Models are Zero-Shot Learners [ICLR 2022] [[paper]](https://arxiv.org/pdf/2109.01652.pdf) [[code]](https://github.com/google-research/flan) 
 
 ## New Dataset
 1. DriveLM: Drive on Language [paper] [[project]](https://github.com/OpenDriveLab/DriveLM)
