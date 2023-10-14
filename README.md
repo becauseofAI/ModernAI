@@ -23,6 +23,11 @@
 6. Semantic-SAM: Segment and Recognize Anything at Any Granularity [arXiv 2307] [[paper]](https://browse.arxiv.org/pdf/2307.04767.pdf) [[code]](https://github.com/UX-Decoder/Semantic-SAM) 
 
 ## Multimodal Large Language Model (MLLM) / Large Multimodal Model (LMM) 
+<details>
+<summary>Paradigm Comparison</summary>
+<div align="center"><img src="https://user-images.githubusercontent.com/31701434/275126977-d7a482ac-fa57-4643-a7a8-a210bd3a43d5.png"/></div>  
+</details>  
+
 1. LAVIS: A Library for Language-Vision Intelligence [ACL 2023] [[paper]](https://browse.arxiv.org/pdf/2209.09019.pdf) [[code]](https://github.com/salesforce/LAVIS)
 2. BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [ICML 2023] [[paper]](https://browse.arxiv.org/pdf/2301.12597.pdf) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
 3. InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning [arXiv 2305] [[paper]](https://browse.arxiv.org/pdf/2305.06500.pdf) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
@@ -31,10 +36,11 @@
 6. Kosmos-2: Grounding Multimodal Large Language Models to the World [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.14824.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2)  
 7. NExT-GPT: Any-to-Any Multimodal LLM [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.05519.pdf) [[code]](https://github.com/NExT-GPT/NExT-GPT) 
 8. LLaVA: Large Language and Vision Assistant [NeurIPS 2023] [[paper]](https://browse.arxiv.org/pdf/2304.08485.pdf) [arXiv 2310] [[paper]](https://browse.arxiv.org/pdf/2310.03744.pdf) [[code]](https://github.com/haotian-liu/LLaVA)
-9. AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.16058.pdf) [code]
-10. InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.15112.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
-11. MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
-12. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
+9. mPLUG-Owl🦉: Modularization Empowers Large Language Models with Multimodality [arXiv 2304] [[paper]](https://arxiv.org/pdf/2304.14178.pdf) [[code]](https://github.com/X-PLUG/mPLUG-Owl)   
+10. AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.16058.pdf) [code]
+11. InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.15112.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
+12. MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
+13. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
