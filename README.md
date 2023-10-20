@@ -48,6 +48,7 @@
 1. UniAD: Planning-oriented Autonomous Driving [CVPR 2023] [[paper]](https://arxiv.org/pdf/2212.10156.pdf) [[code]](https://github.com/OpenDriveLab/UniAD)
 2. Scene as Occupancy [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.02851.pdf) [[code]](https://github.com/OpenDriveLab/OccNet)
 3. FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving [arXiv 2308] [[paper]](https://arxiv.org/pdf/2308.01006.pdf) [[code]](https://github.com/westlake-autolab/FusionAD)
+4. BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.10357.pdf) [code]
 ### with Large Language Model
 1. Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [arXiv 2307] [[paper]](https://arxiv.org/pdf/2307.07162.pdf) [[code]](https://github.com/PJLab-ADG/DriveLikeAHuman)
 2. LINGO-1: Exploring Natural Language for Autonomous Driving (Vision-Language-Action Models, VLAMs) [Wayve 2309] [[blog]](https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/)
