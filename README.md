@@ -71,3 +71,4 @@
 2. Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[paper]](https://robotics-transformer-x.github.io/paper.pdf) [[project]](https://robotics-transformer-x.github.io/) [[blog]](https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types)
 
 ## SOTA Downstream Task
+### Zero-shot Object Detection about of Visual Grounding, Opne-set, Open-vocabulary, Open-world
