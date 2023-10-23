@@ -57,12 +57,11 @@
 ## Embodied AI (EAI)
 
 ## World Model
-1. MILE: Model-Based Imitation Learning for Urban Driving [Wayve 2210] [NeurIPS 2022] [[paper]](https://arxiv.org/pdf/2210.07729.pdf) [[code]](https://github.com/wayveai/mile) [[blog]](https://wayve.ai/thinking/learning-a-world-model-and-a-driving-policy/)
-1. GAIA-1: A Generative World Model for Autonomous Driving [Wayve 2310] [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.17080.pdf) [code]
+1. CWM: Unifying (Machine) Vision via Counterfactual World Modeling [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.01828.pdf) [[code]](https://github.com/neuroailab/CounterfactualWorldModels)
+2. MILE: Model-Based Imitation Learning for Urban Driving [Wayve 2210] [NeurIPS 2022] [[paper]](https://arxiv.org/pdf/2210.07729.pdf) [[code]](https://github.com/wayveai/mile) [[blog]](https://wayve.ai/thinking/learning-a-world-model-and-a-driving-policy/)
+3. GAIA-1: A Generative World Model for Autonomous Driving [Wayve 2310] [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.17080.pdf) [code]
 
 ## Artificial General Intelligence (AGI)
-
-## SOTA Downstream Task
 
 ## New Method
 1. [Instruction Tuning] FLAN: Finetuned Language Models are Zero-Shot Learners [ICLR 2022] [[paper]](https://arxiv.org/pdf/2109.01652.pdf) [[code]](https://github.com/google-research/flan) 
@@ -70,3 +69,5 @@
 ## New Dataset
 1. DriveLM: Drive on Language [paper] [[project]](https://github.com/OpenDriveLab/DriveLM)
 2. Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[paper]](https://robotics-transformer-x.github.io/paper.pdf) [[project]](https://robotics-transformer-x.github.io/) [[blog]](https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types)
+
+## SOTA Downstream Task
