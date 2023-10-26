@@ -42,6 +42,7 @@
 12. InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.15112.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
 13. MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
 14. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
+15. Woodpecker🐦: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
