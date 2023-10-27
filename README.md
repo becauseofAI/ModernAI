@@ -43,6 +43,7 @@
 13. MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
 14. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
 15. Woodpecker🐦: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
+16. SoM: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.11441.pdf) [[code]](https://github.com/microsoft/SoM)
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
