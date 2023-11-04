@@ -37,13 +37,15 @@
 7. Kosmos-2: Grounding Multimodal Large Language Models to the World [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.14824.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2)  
 8. NExT-GPT: Any-to-Any Multimodal LLM [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.05519.pdf) [[code]](https://github.com/NExT-GPT/NExT-GPT) 
 9. LLaVA: Large Language and Vision Assistant [NeurIPS 2023] [[paper]](https://browse.arxiv.org/pdf/2304.08485.pdf) [arXiv 2310] [[paper]](https://browse.arxiv.org/pdf/2310.03744.pdf) [[code]](https://github.com/haotian-liu/LLaVA)
-10. mPLUG-Owl🦉: Modularization Empowers Large Language Models with Multimodality [arXiv 2304] [[paper]](https://arxiv.org/pdf/2304.14178.pdf) [[code]](https://github.com/X-PLUG/mPLUG-Owl)   
-11. AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.16058.pdf) [code]
-12. InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.15112.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
-13. MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
-14. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
-15. Woodpecker🐦: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
-16. SoM: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.11441.pdf) [[code]](https://github.com/microsoft/SoM)
+10. mPLUG-Owl🦉: Modularization Empowers Large Language Models with Multimodality [arXiv 2304] [[paper]](https://arxiv.org/pdf/2304.14178.pdf) [[code]](https://github.com/X-PLUG/mPLUG-Owl)
+11. VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks [arXiv 2305] [[paper]](https://arxiv.org/pdf/2305.11175.pdf) [[code]](https://github.com/OpenGVLab/VisionLLM)   
+12. Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [arXiv 2308] [[paper]](https://arxiv.org/pdf/2308.12966.pdf) [[code]](https://github.com/QwenLM/Qwen-VL)   
+13. AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.16058.pdf) [code]
+14. InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.15112.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
+15. MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
+16. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
+17. Woodpecker🐦: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
+18. SoM: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.11441.pdf) [[code]](https://github.com/microsoft/SoM)
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
