@@ -60,6 +60,12 @@
 
 ## Embodied AI (EAI)
 
+## Neural Radiance Fields (NeRF)
+EmerNeRF
+
+## Diffusion Model
+ZeroNVS
+
 ## World Model
 1. CWM: Unifying (Machine) Vision via Counterfactual World Modeling [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.01828.pdf) [[code]](https://github.com/neuroailab/CounterfactualWorldModels)
 2. MILE: Model-Based Imitation Learning for Urban Driving [Wayve 2210] [NeurIPS 2022] [[paper]](https://arxiv.org/pdf/2210.07729.pdf) [[code]](https://github.com/wayveai/mile) [[blog]](https://wayve.ai/thinking/learning-a-world-model-and-a-driving-policy/)
