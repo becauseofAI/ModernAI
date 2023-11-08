@@ -1,6 +1,9 @@
 # <p align="center">ModernAI: Awesome Modern Artificial Intelligence</p>  
 <div align="center"><img src="https://emtemp.gcom.cloud/ngw/globalassets/en/articles/images/hype-cycle-for-artificial-intelligence-2023.png"/></div>  
 
+
+## <p align="center">🔥Hot update in progress ...</p>
+
 ## Large Model Evolutionary Graph
 <details>
 <summary>LLM</summary>
