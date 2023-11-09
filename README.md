@@ -50,6 +50,7 @@
 16. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
 17. Woodpecker🐦: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
 18. SoM: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.11441.pdf) [[code]](https://github.com/microsoft/SoM)
+19. OtterHD🦦: A High-Resolution Multi-modality Model [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04219.pdf) [[code]](https://github.com/Luodian/Otter)
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
