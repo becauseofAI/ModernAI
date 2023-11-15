@@ -51,6 +51,9 @@
 17. Woodpecker🐦: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
 18. SoM: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.11441.pdf) [[code]](https://github.com/microsoft/SoM)
 19. OtterHD🦦: A High-Resolution Multi-modality Model [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04219.pdf) [[code]](https://github.com/Luodian/Otter)
+20. NExT-Chat: An LMM for Chat, Detection and Segmentation [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04498.pdf) [[project]](https://next-chatv.github.io/)
+21. InfMLLM: A Unified Framework for Visual-Language Tasks [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06791.pdf) [[code]](https://github.com/mightyzau/InfMLLM)
+22. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
@@ -84,6 +87,8 @@ ZeroNVS
 ## New Dataset
 1. DriveLM: Drive on Language [paper] [[project]](https://github.com/OpenDriveLab/DriveLM)
 2. Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[paper]](https://robotics-transformer-x.github.io/paper.pdf) [[project]](https://robotics-transformer-x.github.io/) [[blog]](https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types)
+3. To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning (LVIS-Instruct4V) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.07574.pdf) [[code]](https://github.com/X2FD/LVIS-INSTRUCT4V) [[dataset]](https://huggingface.co/datasets/X2FD/LVIS-Instruct4V)
+4. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
 
 ## SOTA Downstream Task
 ### Zero-shot Object Detection about of Visual Grounding, Opne-set, Open-vocabulary, Open-world
