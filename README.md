@@ -66,7 +66,12 @@
 2. LINGO-1: Exploring Natural Language for Autonomous Driving (Vision-Language-Action Models, VLAMs) [Wayve 2309] [[blog]](https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/)
 3. DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.01412.pdf) [code]
 
-## Embodied AI (EAI)
+## Embodied AI (EAI) and Robo Agent
+1. VIMA: General Robot Manipulation with Multimodal Prompts [arXiv 2210] [[paper]](https://arxiv.org/pdf/2210.03094.pdf) [[code]](https://github.com/vimalabs/VIMA)
+2. PaLM-E: An Embodied Multimodal Language Model  [arXiv 2303] [[paper]](https://arxiv.org/pdf/2303.03378.pdf) [code]
+3. VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models [arXiv 2307] [CoRL 2023] [[paper]](https://arxiv.org/pdf/2307.05973.pdf) [[code]](https://github.com/huangwl18/VoxPoser)
+4. RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [arXiv 2307] [[paper]](https://arxiv.org/pdf/2307.15818.pdf) [[project]](https://robotics-transformer2.github.io/)
+5. RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.01918.pdf) [[code]](https://github.com/robopen/roboagent/)
 
 ## Neural Radiance Fields (NeRF)
 1. EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.02077.pdf) [[code]](https://github.com/NVlabs/EmerNeRF) 
@@ -86,9 +91,10 @@
 
 ## New Dataset
 1. DriveLM: Drive on Language [paper] [[project]](https://github.com/OpenDriveLab/DriveLM)
-2. Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[paper]](https://robotics-transformer-x.github.io/paper.pdf) [[project]](https://robotics-transformer-x.github.io/) [[blog]](https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types)
-3. To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning (LVIS-Instruct4V) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.07574.pdf) [[code]](https://github.com/X2FD/LVIS-INSTRUCT4V) [[dataset]](https://huggingface.co/datasets/X2FD/LVIS-Instruct4V)
-4. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
+2. MagicDrive: Street View Generation with Diverse 3D Geometry Control [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02601.pdf) [[code]](https://github.com/cure-lab/MagicDrive) 
+3. Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[paper]](https://robotics-transformer-x.github.io/paper.pdf) [[project]](https://robotics-transformer-x.github.io/) [[blog]](https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types)
+4. To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning (LVIS-Instruct4V) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.07574.pdf) [[code]](https://github.com/X2FD/LVIS-INSTRUCT4V) [[dataset]](https://huggingface.co/datasets/X2FD/LVIS-Instruct4V)
+5. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
 
 ## SOTA Downstream Task
 ### Zero-shot Object Detection about of Visual Grounding, Opne-set, Open-vocabulary, Open-world
