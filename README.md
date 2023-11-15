@@ -69,10 +69,10 @@
 ## Embodied AI (EAI)
 
 ## Neural Radiance Fields (NeRF)
-EmerNeRF
+1. EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.02077.pdf) [[code]](https://github.com/NVlabs/EmerNeRF) 
 
 ## Diffusion Model
-ZeroNVS
+1. ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.17994.pdf) [[code]](https://github.com/kylesargent/ZeroNVS) 
 
 ## World Model
 1. CWM: Unifying (Machine) Vision via Counterfactual World Modeling [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.01828.pdf) [[code]](https://github.com/neuroailab/CounterfactualWorldModels)
