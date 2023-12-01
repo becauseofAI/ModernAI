@@ -84,6 +84,8 @@
 1. CWM: Unifying (Machine) Vision via Counterfactual World Modeling [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.01828.pdf) [[code]](https://github.com/neuroailab/CounterfactualWorldModels)
 2. MILE: Model-Based Imitation Learning for Urban Driving [Wayve 2210] [NeurIPS 2022] [[paper]](https://arxiv.org/pdf/2210.07729.pdf) [[code]](https://github.com/wayveai/mile) [[blog]](https://wayve.ai/thinking/learning-a-world-model-and-a-driving-policy/)
 3. GAIA-1: A Generative World Model for Autonomous Driving [Wayve 2310] [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.17080.pdf) [code]
+4. ADriver-I: A General World Model for Autonomous Driving [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.13549.pdf) [code]
+5. OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.16038.pdf) [[code]](https://github.com/wzzheng/OccWorld)
 
 ## Artificial General Intelligence (AGI)
 
