@@ -98,6 +98,7 @@
 3. Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[paper]](https://robotics-transformer-x.github.io/paper.pdf) [[project]](https://robotics-transformer-x.github.io/) [[blog]](https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types)
 4. To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning (LVIS-Instruct4V) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.07574.pdf) [[code]](https://github.com/X2FD/LVIS-INSTRUCT4V) [[dataset]](https://huggingface.co/datasets/X2FD/LVIS-Instruct4V)
 5. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
+6. ShareGPT4V: Improving Large Multi-Modal Models with Better Captions [[paper]](https://arxiv.org/pdf/2311.12793.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) [[dataset]](https://huggingface.co/datasets/Lin-Chen/ShareGPT4V)
 
 ## SOTA Downstream Task
 ### Zero-shot Object Detection about of Visual Grounding, Opne-set, Open-vocabulary, Open-world
