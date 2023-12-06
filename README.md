@@ -19,7 +19,7 @@
 ## Large Language Model (LLM)
 
 ## Large Vision Model (LVM)
-1. Sequential Modeling Enables Scalable Learning for Large Vision Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.00785.pdf) [[code]](https://github.com/ytongbai/LVM)
+1. Sequential Modeling Enables Scalable Learning for Large Vision Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.00785.pdf) [[code]](https://github.com/ytongbai/LVM) (💥Visual GPT Time?)
 
 ## Vision Foundation Model (VFM)
 1. SAM: Segment Anything Model [ICCV 2023 Best Paper Honorable Mention] [[paper]](https://arxiv.org/pdf/2304.02643.pdf) [[code]](https://github.com/facebookresearch/segment-anything) 
