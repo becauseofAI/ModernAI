@@ -28,6 +28,7 @@
 5. RAM: Recognize Anything - A Strong Image Tagging Model [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.03514.pdf) [[code]](https://github.com/xinyu1205/Recognize_Anything-Tag2Text) 
 6. Semantic-SAM: Segment and Recognize Anything at Any Granularity [arXiv 2307] [[paper]](https://browse.arxiv.org/pdf/2307.04767.pdf) [[code]](https://github.com/UX-Decoder/Semantic-SAM)
 7. UNINEXT: Universal Instance Perception as Object Discovery and Retrieval [CVPR 2023] [[paper]](https://arxiv.org/pdf/2303.06674.pdf) [[code]](https://github.com/MasterBin-IIAU/UNINEXT)
+8. APE: Aligning and Prompting Everything All at Once for Universal Visual Perception [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02153.pdf) [[code]](https://github.com/shenyunhang/APE) 
 
 ## Multimodal Large Language Model (MLLM) / Large Multimodal Model (LMM) 
 <details>
