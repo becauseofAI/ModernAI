@@ -59,6 +59,7 @@
 21. NExT-Chat: An LMM for Chat, Detection and Segmentation [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04498.pdf) [[project]](https://next-chatv.github.io/)
 22. InfMLLM: A Unified Framework for Visual-Language Tasks [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06791.pdf) [[code]](https://github.com/mightyzau/InfMLLM)
 23. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
+24. LION🦁: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.11860.pdf) [[code]](https://github.com/rshaojimmy/JiuTian)
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
