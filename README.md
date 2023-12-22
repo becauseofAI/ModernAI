@@ -28,7 +28,8 @@
 5. RAM: Recognize Anything - A Strong Image Tagging Model [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.03514.pdf) [[code]](https://github.com/xinyu1205/Recognize_Anything-Tag2Text) 
 6. Semantic-SAM: Segment and Recognize Anything at Any Granularity [arXiv 2307] [[paper]](https://browse.arxiv.org/pdf/2307.04767.pdf) [[code]](https://github.com/UX-Decoder/Semantic-SAM)
 7. UNINEXT: Universal Instance Perception as Object Discovery and Retrieval [CVPR 2023] [[paper]](https://arxiv.org/pdf/2303.06674.pdf) [[code]](https://github.com/MasterBin-IIAU/UNINEXT)
-8. APE: Aligning and Prompting Everything All at Once for Universal Visual Perception [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02153.pdf) [[code]](https://github.com/shenyunhang/APE) 
+8. APE: Aligning and Prompting Everything All at Once for Universal Visual Perception [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02153.pdf) [[code]](https://github.com/shenyunhang/APE)
+9. GLEE: General Object Foundation Model for Images and Videos at Scale [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09158.pdf) [[code]](https://github.com/FoundationVision/GLEE)
 
 ## Multimodal Large Language Model (MLLM) / Large Multimodal Model (LMM) 
 <details>
@@ -47,21 +48,25 @@
 9. LLaVA: Large Language and Vision Assistant [NeurIPS 2023] [[paper]](https://browse.arxiv.org/pdf/2304.08485.pdf) [arXiv 2310] [[paper]](https://browse.arxiv.org/pdf/2310.03744.pdf) [[code]](https://github.com/haotian-liu/LLaVA)
 10. 🦉mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality [arXiv 2304] [[paper]](https://arxiv.org/pdf/2304.14178.pdf) [[code]](https://github.com/X-PLUG/mPLUG-Owl)
 11. 🦉mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04257.pdf) [[code]](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)
-12. VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks [arXiv 2305] [[paper]](https://arxiv.org/pdf/2305.11175.pdf) [[code]](https://github.com/OpenGVLab/VisionLLM)   
-13. Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [arXiv 2308] [[paper]](https://arxiv.org/pdf/2308.12966.pdf) [[code]](https://github.com/QwenLM/Qwen-VL)   
-14. AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.16058.pdf) [code]
-15. InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.15112.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
-16. MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
-17. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
-18. 🐦Woodpecker: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
-19. SoM: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.11441.pdf) [[code]](https://github.com/microsoft/SoM)
-20. 🦦OtterHD: A High-Resolution Multi-modality Model [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04219.pdf) [[code]](https://github.com/Luodian/Otter)
-21. NExT-Chat: An LMM for Chat, Detection and Segmentation [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04498.pdf) [[project]](https://next-chatv.github.io/)
-22. InfMLLM: A Unified Framework for Visual-Language Tasks [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06791.pdf) [[code]](https://github.com/mightyzau/InfMLLM)
-23. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
-24. 🦁LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.11860.pdf) [[code]](https://github.com/rshaojimmy/JiuTian)
-25. 🐵Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06607.pdf) [[code]](https://github.com/Yuliang-Liu/Monkey)
-26. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
+12. VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks [arXiv 2305] [[paper]](https://arxiv.org/pdf/2305.11175.pdf) [[code]](https://github.com/OpenGVLab/VisionLLM)
+13. 🦅Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.15195.pdf) [[code]](https://github.com/shikras/shikra)
+14. Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [arXiv 2308] [[paper]](https://arxiv.org/pdf/2308.12966.pdf) [[code]](https://github.com/QwenLM/Qwen-VL)   
+15. AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.16058.pdf) [code]
+16. InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.15112.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
+17. MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
+18. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
+19. 🐦Woodpecker: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
+20. SoM: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.11441.pdf) [[code]](https://github.com/microsoft/SoM)
+21. Ferret: Refer and Ground Anything Any-Where at Any Granularity [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.07704v1.pdf) [[code]](https://github.com/apple/ml-ferret) 
+22. 🦦OtterHD: A High-Resolution Multi-modality Model [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04219.pdf) [[code]](https://github.com/Luodian/Otter)
+23. NExT-Chat: An LMM for Chat, Detection and Segmentation [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04498.pdf) [[project]](https://next-chatv.github.io/)
+24. InfMLLM: A Unified Framework for Visual-Language Tasks [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06791.pdf) [[code]](https://github.com/mightyzau/InfMLLM)
+25. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
+26. 🦁LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.11860.pdf) [[code]](https://github.com/rshaojimmy/JiuTian)
+27. 🐵Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06607.pdf) [[code]](https://github.com/Yuliang-Liu/Monkey)
+28. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
+29. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
+30. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
