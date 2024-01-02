@@ -66,7 +66,7 @@
 27. 🐵Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06607.pdf) [[code]](https://github.com/Yuliang-Liu/Monkey)
 28. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
 29. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
-30. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
+30. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
