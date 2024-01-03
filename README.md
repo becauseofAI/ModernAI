@@ -45,7 +45,7 @@
 6. VisualGLM-6B: Chinese and English multimodal conversational language model [ACL 2022] [[paper]](https://browse.arxiv.org/pdf/2103.10360.pdf) [[code]](https://github.com/THUDM/VisualGLM-6B)
 7. Kosmos-2: Grounding Multimodal Large Language Models to the World [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.14824.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2)  
 8. NExT-GPT: Any-to-Any Multimodal LLM [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.05519.pdf) [[code]](https://github.com/NExT-GPT/NExT-GPT) 
-9. LLaVA: Large Language and Vision Assistant [NeurIPS 2023] [[paper]](https://browse.arxiv.org/pdf/2304.08485.pdf) [arXiv 2310] [[paper]](https://browse.arxiv.org/pdf/2310.03744.pdf) [[code]](https://github.com/haotian-liu/LLaVA)
+9. LLaVA/-1.5: Large Language and Vision Assistant [NeurIPS 2023] [[paper]](https://browse.arxiv.org/pdf/2304.08485.pdf) [arXiv 2310] [[paper]](https://browse.arxiv.org/pdf/2310.03744.pdf) [[code]](https://github.com/haotian-liu/LLaVA)
 10. 🦉mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality [arXiv 2304] [[paper]](https://arxiv.org/pdf/2304.14178.pdf) [[code]](https://github.com/X-PLUG/mPLUG-Owl)
 11. 🦉mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04257.pdf) [[code]](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)
 12. VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks [arXiv 2305] [[paper]](https://arxiv.org/pdf/2305.11175.pdf) [[code]](https://github.com/OpenGVLab/VisionLLM)
@@ -68,10 +68,12 @@
 29. CG-VLM: Contrastive Vision-Language Alignment Makes Efficient Instruction Learner [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.17945.pdf) [[code]](https://github.com/lizhaoliu-Lec/CG-VLM)
 30. 🐲PixelLM: Pixel Reasoning with Large Multimodal Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02228.pdf) [[code]](https://github.com/MaverickRen/PixelLM)
 31. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
-32. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
-33. 🦅Osprey: Pixel Understanding with Visual Instruction Tuning [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.10032.pdf) [[code]](https://github.com/CircleRadon/Osprey)
-34. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
-35. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
+32. CogAgent: A Visual Language Model for GUI Agents [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.08914.pdf) [[code]](https://arxiv.org/pdf/2312.08914.pdf) (**support 1120×1120 resolution**)
+33. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
+34. 🦅Osprey: Pixel Understanding with Visual Instruction Tuning [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.10032.pdf) [[code]](https://github.com/CircleRadon/Osprey)
+35. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
+36. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
+37. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA) 
 
    
 ## Modern Autonomous Driving (MAD)
