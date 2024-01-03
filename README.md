@@ -60,16 +60,19 @@
 21. Ferret: Refer and Ground Anything Any-Where at Any Granularity [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.07704v1.pdf) [[code]](https://github.com/apple/ml-ferret) 
 22. 🦦OtterHD: A High-Resolution Multi-modality Model [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04219.pdf) [[code]](https://github.com/Luodian/Otter)
 23. NExT-Chat: An LMM for Chat, Detection and Segmentation [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04498.pdf) [[project]](https://next-chatv.github.io/)
-24. InfMLLM: A Unified Framework for Visual-Language Tasks [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06791.pdf) [[code]](https://github.com/mightyzau/InfMLLM)
-25. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
-26. 🦁LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.11860.pdf) [[code]](https://github.com/rshaojimmy/JiuTian)
-27. 🐵Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06607.pdf) [[code]](https://github.com/Yuliang-Liu/Monkey)
-28. 🐲PixelLM: Pixel Reasoning with Large Multimodal Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02228.pdf) [[code]](https://github.com/MaverickRen/PixelLM)
-29. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
-30. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
-32. 🦅Osprey: Pixel Understanding with Visual Instruction Tuning [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.10032.pdf) [[code]](https://github.com/CircleRadon/Osprey)
-33. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
-34. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)  
+24. Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06783.pdf) [[code]](https://github.com/Q-Future/Q-Instruct)
+25. InfMLLM: A Unified Framework for Visual-Language Tasks [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06791.pdf) [[code]](https://github.com/mightyzau/InfMLLM)
+26. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
+27. 🦁LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.11860.pdf) [[code]](https://github.com/rshaojimmy/JiuTian)
+28. 🐵Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06607.pdf) [[code]](https://github.com/Yuliang-Liu/Monkey)
+29. CG-VLM: Contrastive Vision-Language Alignment Makes Efficient Instruction Learner [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.17945.pdf) [[code]](https://github.com/lizhaoliu-Lec/CG-VLM)
+30. 🐲PixelLM: Pixel Reasoning with Large Multimodal Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02228.pdf) [[code]](https://github.com/MaverickRen/PixelLM)
+31. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
+32. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
+33. 🦅Osprey: Pixel Understanding with Visual Instruction Tuning [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.10032.pdf) [[code]](https://github.com/CircleRadon/Osprey)
+34. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
+35. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
+
    
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
