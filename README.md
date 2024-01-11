@@ -71,9 +71,10 @@
 32. CogAgent: A Visual Language Model for GUI Agents [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.08914.pdf) [[code]](https://arxiv.org/pdf/2312.08914.pdf) (**support 1120×1120 resolution**)
 33. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
 34. 🦅Osprey: Pixel Understanding with Visual Instruction Tuning [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.10032.pdf) [[code]](https://github.com/CircleRadon/Osprey)
-35. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
-36. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
-37. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA) 
+35. Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.17172.pdf) [[code]](https://github.com/allenai/unified-io-2)
+36. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
+37. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
+38. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA) 
 
    
 ## Modern Autonomous Driving (MAD)
