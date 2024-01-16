@@ -74,7 +74,8 @@
 35. Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.17172.pdf) [[code]](https://github.com/allenai/unified-io-2)
 36. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
 37. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
-38. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA) 
+38. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA)
+39. LEGO:Language Enhanced **Multi-modal Grounding** Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06071.pdf) [[code]](https://github.com/lzw-lzw/lego)
 
    
 ## Modern Autonomous Driving (MAD)
