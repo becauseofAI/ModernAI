@@ -77,7 +77,14 @@
 38. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA)
 39. LEGO: Language Enhanced **Multi-modal Grounding** Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06071.pdf) [[code]](https://github.com/lzw-lzw/lego)
 
-   
+## Image Generation with MLLM
+1. Generating Images with Multimodal Language Models [NeurIPS 2023] [[paper]](https://arxiv.org/pdf/2305.17216.pdf) [[code]](https://github.com/kohjingyu/gill)
+2. DreamLLM: Synergistic Multimodal Comprehension and Creation [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.11499.pdf) [[code]](https://github.com/RunpeiDong/DreamLLM)
+3. Guiding Instruction-based Image Editing via Multimodal Large Language Models [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.17102.pdf) [[code]](https://github.com/tsujuifu/pytorch_mgie)
+4. KOSMOS-G: Generating Images in Context with Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02992.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-g)
+5. LLMGA: Multimodal Large Language Model based Generation Assistant [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.16500v2.pdf) [[code]](https://github.com/dvlab-research/LLMGA)
+
+
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
 1. UniAD: Planning-oriented Autonomous Driving [CVPR 2023] [[paper]](https://arxiv.org/pdf/2212.10156.pdf) [[code]](https://github.com/OpenDriveLab/UniAD)
