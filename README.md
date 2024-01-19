@@ -18,8 +18,14 @@
 
 ## Large Language Model (LLM)
 
+## Large Vision Backbone
+1. AIM: Scalable Pre-training of Large Autoregressive Image Models [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.08541.pdf) [[code]](https://github.com/apple/ml-aim) 
+
 ## Large Vision Model (LVM)
 1. Sequential Modeling Enables Scalable Learning for Large Vision Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.00785.pdf) [[code]](https://github.com/ytongbai/LVM) (💥Visual GPT Time?)
+
+## Large Vision-Language Model (VLM)
+1. UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06397v1.pdf) [code]
 
 ## Vision Foundation Model (VFM)
 1. SAM: Segment Anything Model [ICCV 2023 Best Paper Honorable Mention] [[paper]](https://arxiv.org/pdf/2304.02643.pdf) [[code]](https://github.com/facebookresearch/segment-anything) 
@@ -30,6 +36,7 @@
 7. UNINEXT: Universal Instance Perception as Object Discovery and Retrieval [CVPR 2023] [[paper]](https://arxiv.org/pdf/2303.06674.pdf) [[code]](https://github.com/MasterBin-IIAU/UNINEXT)
 8. APE: Aligning and Prompting Everything All at Once for Universal Visual Perception [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02153.pdf) [[code]](https://github.com/shenyunhang/APE)
 9. GLEE: General Object Foundation Model for Images and Videos at Scale [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09158.pdf) [[code]](https://github.com/FoundationVision/GLEE)
+10. OMG-Seg : Is One Model Good Enough For All Segmentation? [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.10229.pdf) [[code]]](https://github.com/lxtGH/OMG-Seg)
 
 ## Multimodal Large Language Model (MLLM) / Large Multimodal Model (LMM) 
 <details>
@@ -67,15 +74,18 @@
 28. 🐵Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06607.pdf) [[code]](https://github.com/Yuliang-Liu/Monkey)
 29. CG-VLM: Contrastive Vision-Language Alignment Makes Efficient Instruction Learner [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.17945.pdf) [[code]](https://github.com/lizhaoliu-Lec/CG-VLM)
 30. 🐲PixelLM: Pixel Reasoning with Large Multimodal Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02228.pdf) [[code]](https://github.com/MaverickRen/PixelLM)
-31. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
-32. CogAgent: A Visual Language Model for GUI Agents [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.08914.pdf) [[code]](https://arxiv.org/pdf/2312.08914.pdf) (**support 1120×1120 resolution**)
-33. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
-34. 🦅Osprey: Pixel Understanding with Visual Instruction Tuning [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.10032.pdf) [[code]](https://github.com/CircleRadon/Osprey)
-35. Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.17172.pdf) [[code]](https://github.com/allenai/unified-io-2)
-36. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
-37. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
-38. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA)
-39. LEGO: Language Enhanced **Multi-modal Grounding** Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06071.pdf) [[code]](https://github.com/lzw-lzw/lego)
+31. 🐝Honeybee: Locality-enhanced Projector for Multimodal LLM [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.06742.pdf) [[code]](https://github.com/kakaobrain/honeybee)
+32. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
+33. CogAgent: A Visual Language Model for GUI Agents [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.08914.pdf) [[code]](https://arxiv.org/pdf/2312.08914.pdf) (**support 1120×1120 resolution**)
+34. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
+35. 🦅Osprey: Pixel Understanding with Visual Instruction Tuning [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.10032.pdf) [[code]](https://github.com/CircleRadon/Osprey)
+36. Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.17172.pdf) [[code]](https://github.com/allenai/unified-io-2)
+37. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
+38. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
+39. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA)
+40. LEGO: Language Enhanced **Multi-modal Grounding** Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06071.pdf) [[code]](https://github.com/lzw-lzw/lego)
+41. MMVP: Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06209.pdf) [[code]](https://github.com/tsb0601/MMVP)
+42. ModaVerse: Efficiently Transforming Modalities with LLMs [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06395.pdf) [code]
 
 ## Image Generation with MLLM
 1. Generating Images with Multimodal Language Models [NeurIPS 2023] [[paper]](https://arxiv.org/pdf/2305.17216.pdf) [[code]](https://github.com/kohjingyu/gill)
@@ -107,7 +117,8 @@
 1. EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.02077.pdf) [[code]](https://github.com/NVlabs/EmerNeRF) 
 
 ## Diffusion Model
-1. ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.17994.pdf) [[code]](https://github.com/kylesargent/ZeroNVS) 
+1. ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.17994.pdf) [[code]](https://github.com/kylesargent/ZeroNVS)
+2. Vlogger: Make Your Dream A Vlog [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.09414.pdf) [[code]](https://github.com/zhuangshaobin/Vlogger)
 
 ## World Model
 1. CWM: Unifying (Machine) Vision via Counterfactual World Modeling [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.01828.pdf) [[code]](https://github.com/neuroailab/CounterfactualWorldModels)
