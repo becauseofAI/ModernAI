@@ -146,5 +146,9 @@
 5. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
 6. ShareGPT4V: Improving Large Multi-Modal Models with Better Captions [[paper]](https://arxiv.org/pdf/2311.12793.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) [[dataset]](https://huggingface.co/datasets/Lin-Chen/ShareGPT4V)
 
+## New Vision Backbone
+1. Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.09417.pdf) [[code]](https://github.com/hustvl/Vim) 
+
+
 ## SOTA Downstream Task
 ### Zero-shot Object Detection about of Visual Grounding, Opne-set, Open-vocabulary, Open-world
