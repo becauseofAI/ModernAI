@@ -147,7 +147,8 @@
 6. ShareGPT4V: Improving Large Multi-Modal Models with Better Captions [[paper]](https://arxiv.org/pdf/2311.12793.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) [[dataset]](https://huggingface.co/datasets/Lin-Chen/ShareGPT4V)
 
 ## New Vision Backbone
-1. Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.09417.pdf) [[code]](https://github.com/hustvl/Vim) 
+1. Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.09417.pdf) [[code]](https://github.com/hustvl/Vim)
+2. VMamba: Visual State Space Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.10166.pdf) [[code]](https://github.com/MzeroMiko/VMamba)
 
 
 ## SOTA Downstream Task
