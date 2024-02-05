@@ -15,8 +15,16 @@
 </details>
 
 ## Survey
+1. Agent AI: Surveying the Horizons of Multimodal Interaction [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.03568.pdf)
+2. MM-LLMs: Recent Advances in MultiModal Large Language Models [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.13601.pdf) 
 
 ## Large Language Model (LLM)
+1. OLMo: Accelerating the Science of Language Models [arXiv 2402] [[paper]](https://arxiv.org/pdf/2402.00838.pdf) [[code]](https://github.com/allenai/OLMo)
+
+## Chinese Large Language Model (CLLM)
+1. https://github.com/LinkSoul-AI/Chinese-Llama-2-7b
+2. https://github.com/ymcui/Chinese-LLaMA-Alpaca-2
+3. https://github.com/LlamaFamily/Llama2-Chinese
 
 ## Large Vision Backbone
 1. AIM: Scalable Pre-training of Large Autoregressive Image Models [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.08541.pdf) [[code]](https://github.com/apple/ml-aim) 
@@ -37,6 +45,10 @@
 8. APE: Aligning and Prompting Everything All at Once for Universal Visual Perception [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02153.pdf) [[code]](https://github.com/shenyunhang/APE)
 9. GLEE: General Object Foundation Model for Images and Videos at Scale [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09158.pdf) [[code]](https://github.com/FoundationVision/GLEE)
 10. OMG-Seg : Is One Model Good Enough For All Segmentation? [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.10229.pdf) [[code]]](https://github.com/lxtGH/OMG-Seg)
+11. Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.10891.pdf) [[code]]](https://github.com/LiheYoung/Depth-Anything)
+12. ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.12665.pdf) [[code]]](https://github.com/Lszcoding/ClipSAM) 
+13. PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.13051.pdf) [[code]]](https://github.com/xzz2/pa-sam)
+14. YOLO-World: **Real-Time Open-Vocabulary** Object Detection [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.17270.pdf) [[code]]](https://github.com/AILab-CVC/YOLO-World)
 
 ## Multimodal Large Language Model (MLLM) / Large Multimodal Model (LMM) 
 <details>
@@ -57,35 +69,46 @@
 11. 🦉mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04257.pdf) [[code]](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)
 12. VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks [arXiv 2305] [[paper]](https://arxiv.org/pdf/2305.11175.pdf) [[code]](https://github.com/OpenGVLab/VisionLLM)
 13. 🦅Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.15195.pdf) [[code]](https://github.com/shikras/shikra)
-14. Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [arXiv 2308] [[paper]](https://arxiv.org/pdf/2308.12966.pdf) [[code]](https://github.com/QwenLM/Qwen-VL)   
-15. AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.16058.pdf) [code]
-16. InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.15112.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
-17. MiniGPT-5: Interleaved Vision-and-Language **Generation** via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
-18. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
-19. 🐦Woodpecker: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
-20. SoM: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.11441.pdf) [[code]](https://github.com/microsoft/SoM)
-21. Ferret: Refer and Ground Anything Any-Where at Any Granularity [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.07704v1.pdf) [[code]](https://github.com/apple/ml-ferret) 
-22. 🦦OtterHD: A High-Resolution Multi-modality Model [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04219.pdf) [[code]](https://github.com/Luodian/Otter)
-23. NExT-Chat: An LMM for Chat, Detection and Segmentation [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04498.pdf) [[project]](https://next-chatv.github.io/)
-24. Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06783.pdf) [[code]](https://github.com/Q-Future/Q-Instruct)
-25. InfMLLM: A Unified Framework for Visual-Language Tasks [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06791.pdf) [[code]](https://github.com/mightyzau/InfMLLM)
-26. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
-27. 🦁LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.11860.pdf) [[code]](https://github.com/rshaojimmy/JiuTian)
-28. 🐵Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06607.pdf) [[code]](https://github.com/Yuliang-Liu/Monkey)
-29. CG-VLM: Contrastive Vision-Language Alignment Makes Efficient Instruction Learner [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.17945.pdf) [[code]](https://github.com/lizhaoliu-Lec/CG-VLM)
-30. 🐲PixelLM: Pixel Reasoning with Large Multimodal Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02228.pdf) [[code]](https://github.com/MaverickRen/PixelLM)
-31. 🐝Honeybee: Locality-enhanced Projector for Multimodal LLM [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.06742.pdf) [[code]](https://github.com/kakaobrain/honeybee)
-32. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
-33. CogAgent: A Visual Language Model for GUI Agents [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.08914.pdf) [[code]](https://arxiv.org/pdf/2312.08914.pdf) (**support 1120×1120 resolution**)
-34. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
-35. 🦅Osprey: Pixel Understanding with Visual Instruction Tuning [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.10032.pdf) [[code]](https://github.com/CircleRadon/Osprey)
-36. Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.17172.pdf) [[code]](https://github.com/allenai/unified-io-2)
-37. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
-38. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
-39. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA)
-40. LEGO: Language Enhanced **Multi-modal Grounding** Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06071.pdf) [[code]](https://github.com/lzw-lzw/lego)
-41. MMVP: Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06209.pdf) [[code]](https://github.com/tsb0601/MMVP)
-42. ModaVerse: Efficiently Transforming Modalities with LLMs [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06395.pdf) [code]
+14. Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [arXiv 2308] [[paper]](https://arxiv.org/pdf/2308.12966.pdf) [[code]](https://github.com/QwenLM/Qwen-VL)
+15. LaVIT: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.04669.pdf) [[code]](https://github.com/jy0205/LaVIT)
+16. AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model [arXiv 2309] [[paper]](https://browse.arxiv.org/pdf/2309.16058.pdf) [code]
+17. InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.15112.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
+18. MiniGPT-5: Interleaved Vision-and-Language **Generation** via Generative Vokens [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02239.pdf) [[code]](https://github.com/eric-ai-lab/MiniGPT-5)
+19. CogVLM: Visual Expert for Large Language Models [github 2310] [[paper]](https://github.com/THUDM/CogVLM/blob/main/assets/cogvlm-paper.pdf) [[code]](https://github.com/THUDM/CogVLM)
+20. 🐦Woodpecker: Hallucination Correction for Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.16045.pdf) [[code]](https://github.com/BradyFU/Woodpecker)
+21. SoM: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.11441.pdf) [[code]](https://github.com/microsoft/SoM)
+22. Ferret: Refer and Ground Anything Any-Where at Any Granularity [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.07704v1.pdf) [[code]](https://github.com/apple/ml-ferret) 
+23. 🦦OtterHD: A High-Resolution Multi-modality Model [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04219.pdf) [[code]](https://github.com/Luodian/Otter)
+24. NExT-Chat: An LMM for Chat, Detection and Segmentation [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.04498.pdf) [[project]](https://next-chatv.github.io/)
+25. Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06783.pdf) [[code]](https://github.com/Q-Future/Q-Instruct)
+26. InfMLLM: A Unified Framework for Visual-Language Tasks [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06791.pdf) [[code]](https://github.com/mightyzau/InfMLLM)
+27. Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (FLD-5B) [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06242.pdf) [code] [dataset]
+28. 🦁LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.11860.pdf) [[code]](https://github.com/rshaojimmy/JiuTian)
+29. 🐵Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.06607.pdf) [[code]](https://github.com/Yuliang-Liu/Monkey)
+30. CG-VLM: Contrastive Vision-Language Alignment Makes Efficient Instruction Learner [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.17945.pdf) [[code]](https://github.com/lizhaoliu-Lec/CG-VLM)
+31. 🐲PixelLM: Pixel Reasoning with Large Multimodal Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.02228.pdf) [[code]](https://github.com/MaverickRen/PixelLM)
+32. 🐝Honeybee: Locality-enhanced Projector for Multimodal LLM [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.06742.pdf) [[code]](https://github.com/kakaobrain/honeybee)
+33. VILA: On Pre-training for Visual Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.07533.pdf) [code]
+34. CogAgent: A Visual Language Model for GUI Agents [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.08914.pdf) [[code]](https://arxiv.org/pdf/2312.08914.pdf) (**support 1120×1120 resolution**)
+35. PixelLLM: Pixel Aligned Language Models [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.09237.pdf) [code]
+36. 🦅Osprey: Pixel Understanding with Visual Instruction Tuning [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.10032.pdf) [[code]](https://github.com/CircleRadon/Osprey)
+37. Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.17172.pdf) [[code]](https://github.com/allenai/unified-io-2)
+38. VistaLLM: Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.12423.pdf) [code]
+39. Emu2: Generative Multimodal Models are In-Context Learners [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.13286.pdf) [[code]](https://github.com/baaivision/Emu)
+40. V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs [arXiv 2312] [[paper]](https://arxiv.org/pdf/2312.14135.pdf) [[code]](https://github.com/penghao-wu/vstar)
+41. BakLLaVA-1: BakLLaVA 1 is a **Mistral 7B** base augmented with the LLaVA 1.5 architecture [github 2310] [paper] [[code]](https://github.com/SkunkworksAI/BakLLaVA)
+42. LEGO: Language Enhanced **Multi-modal Grounding** Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06071.pdf) [[code]](https://github.com/lzw-lzw/lego)
+43. MMVP: Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06209.pdf) [[code]](https://github.com/tsb0601/MMVP)
+44. ModaVerse: Efficiently Transforming Modalities with LLMs [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06395.pdf) [code]
+45. MoE-LLaVA: Mixture of Experts for Large Vision-Language Models [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.15947.pdf) [[code]](https://github.com/PKU-YuanGroup/MoE-LLaVA) 
+46. LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.16160.pdf) [code]
+47. 🎓InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Models [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.16420.pdf) [[code]](https://github.com/InternLM/InternLM-XComposer)
+48. MouSi: **Poly-Visual-Expert** Vision-Language Models [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.17221.pdf) [[code]](https://github.com/FudanNLPLAB/MouSi)
+49. Yi Vision Language Model [[HF 2401]](https://huggingface.co/01-ai/Yi-VL-34B)
+50. 
+
+## Multimodal Small Language Model (MSLM) / Small Multimodal Model (SMM) 
+1. Vary-toy: Small Language Model Meets with Reinforced Vision Vocabulary [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.12503.pdf) [[code]](https://github.com/Ucas-HaoranWei/Vary-toy)
 
 ## Image Generation with MLLM
 1. Generating Images with Multimodal Language Models [NeurIPS 2023] [[paper]](https://arxiv.org/pdf/2305.17216.pdf) [[code]](https://github.com/kohjingyu/gill)
@@ -94,13 +117,13 @@
 4. KOSMOS-G: Generating Images in Context with Multimodal Large Language Models [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.02992.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-g)
 5. LLMGA: Multimodal Large Language Model based Generation Assistant [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.16500v2.pdf) [[code]](https://github.com/dvlab-research/LLMGA)
 
-
 ## Modern Autonomous Driving (MAD)
 ### End-to-End Solution
 1. UniAD: Planning-oriented Autonomous Driving [CVPR 2023] [[paper]](https://arxiv.org/pdf/2212.10156.pdf) [[code]](https://github.com/OpenDriveLab/UniAD)
 2. Scene as Occupancy [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.02851.pdf) [[code]](https://github.com/OpenDriveLab/OccNet)
 3. FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving [arXiv 2308] [[paper]](https://arxiv.org/pdf/2308.01006.pdf) [[code]](https://github.com/westlake-autolab/FusionAD)
 4. BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.10357.pdf) [code]
+5. UniVision: A Unified Framework for Vision-Centric 3D Perception [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.06994.pdf) [[code]](https://github.com/Cc-Hy/UniVision) 
 ### with Large Language Model
 1. Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [arXiv 2307] [[paper]](https://arxiv.org/pdf/2307.07162.pdf) [[code]](https://github.com/PJLab-ADG/DriveLikeAHuman)
 2. LINGO-1: Exploring Natural Language for Autonomous Driving (Vision-Language-Action Models, VLAMs) [Wayve 2309] [[blog]](https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/)
@@ -112,6 +135,7 @@
 3. VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models [arXiv 2307] [CoRL 2023] [[paper]](https://arxiv.org/pdf/2307.05973.pdf) [[code]](https://github.com/huangwl18/VoxPoser)
 4. RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [arXiv 2307] [[paper]](https://arxiv.org/pdf/2307.15818.pdf) [[project]](https://robotics-transformer2.github.io/)
 5. RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.01918.pdf) [[code]](https://github.com/robopen/roboagent/)
+6. MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.10727.pdf) [[code]](https://github.com/MLLM-Tool/MLLM-Tool)
 
 ## Neural Radiance Fields (NeRF)
 1. EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.02077.pdf) [[code]](https://github.com/NVlabs/EmerNeRF) 
@@ -119,6 +143,7 @@
 ## Diffusion Model
 1. ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image [arXiv 2310] [[paper]](https://arxiv.org/pdf/2310.17994.pdf) [[code]](https://github.com/kylesargent/ZeroNVS)
 2. Vlogger: Make Your Dream A Vlog [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.09414.pdf) [[code]](https://github.com/zhuangshaobin/Vlogger)
+3. BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.13974.pdf) [code]
 
 ## World Model
 1. CWM: Unifying (Machine) Vision via Counterfactual World Modeling [arXiv 2306] [[paper]](https://arxiv.org/pdf/2306.01828.pdf) [[code]](https://github.com/neuroailab/CounterfactualWorldModels)
@@ -149,6 +174,9 @@
 ## New Vision Backbone
 1. Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.09417.pdf) [[code]](https://github.com/hustvl/Vim)
 2. VMamba: Visual State Space Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.10166.pdf) [[code]](https://github.com/MzeroMiko/VMamba)
+
+## Benchmark
+1. Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.10529.pdf) [[code]](https://github.com/umd-huang-lab/Mementos)
 
 ## Platform and API
 1. SenseNova 商汤日日新开放平台 [[url]](https://platform.sensenova.cn/)
