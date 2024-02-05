@@ -150,6 +150,8 @@
 1. Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.09417.pdf) [[code]](https://github.com/hustvl/Vim)
 2. VMamba: Visual State Space Model [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.10166.pdf) [[code]](https://github.com/MzeroMiko/VMamba)
 
+## Platform and API
+1. SenseNova 商汤日日新开放平台 [[url]](https://platform.sensenova.cn/)
 
 ## SOTA Downstream Task
 ### Zero-shot Object Detection about of Visual Grounding, Opne-set, Open-vocabulary, Open-world
