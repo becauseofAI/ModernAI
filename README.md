@@ -156,6 +156,7 @@
 ## Artificial Intelligence Generated Content (AIGC)
 ### Text-to-Image
 ### Text-to-Video
+1. Sora: Video generation models as world simulators [openai 2402] [[technical report]](https://openai.com/research/video-generation-models-as-world-simulators) (💥Visual GPT Time?)
 ### Text-to-3D
 ### Image-to-3D
 
