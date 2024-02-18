@@ -151,6 +151,7 @@
 3. GAIA-1: A Generative World Model for Autonomous Driving [Wayve 2310] [arXiv 2309] [[paper]](https://arxiv.org/pdf/2309.17080.pdf) [code]
 4. ADriver-I: A General World Model for Autonomous Driving [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.13549.pdf) [code]
 5. OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving [arXiv 2311] [[paper]](https://arxiv.org/pdf/2311.16038.pdf) [[code]](https://github.com/wzzheng/OccWorld)
+6. LWM: World Model on Million-Length Video and Language with RingAttention [arXiv 2402] [[paper]](https://arxiv.org/pdf/2402.08268.pdf) [[code]](https://github.com/LargeWorldModel/LWM)
 
 ## Artificial Intelligence Generated Content (AIGC)
 ### Text-to-Image
