@@ -51,6 +51,12 @@
 14. YOLO-World: **Real-Time Open-Vocabulary** Object Detection [arXiv 2401] [[paper]](https://arxiv.org/pdf/2401.17270.pdf) [[code]]](https://github.com/AILab-CVC/YOLO-World)
 
 ## Multimodal Large Language Model (MLLM) / Large Multimodal Model (LMM) 
+
+| Model | OKVQA | GQA | VSR | IconVQA | VizWiz | HM |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| MiniGPT-v2 | 56.9<sup>2</sup> | 60.3 | 60.6 | 47.7 | 32.9 | 58.2 | 
+| MiniGPT-v2-Chat | 57.8<sup>1</sup> | 60.1 | 62.9 | 51.5 | 53.6 | 58.8 | 
+
 <details>
 <summary>Paradigm Comparison</summary>
 <div align="center"><img src="https://user-images.githubusercontent.com/31701434/275126977-d7a482ac-fa57-4643-a7a8-a210bd3a43d5.png"/></div>  
