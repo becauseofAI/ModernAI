@@ -54,8 +54,8 @@
 
 | Model | Vision | Projector | LLM | OKVQA | GQA | VSR | IconVQA | VizWiz | HM | VQA<sup>v2</sup> | SQA<sup>I</sup> | VQA<sup>T</sup> | POPE | MME<sup>P</sup> | MME<sup>C</sup> | MMB | MMB<sup>CN</sup> | SEED<sup>I</sup> | LLaVA<sup>W</sup> | MM-Vet | QBench |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| MiniGPT-v2 | | | | 56.9<sup>**2**</sup> | 60.3 | 60.6<sup>**2**</sup> | 47.7<sup>**2**</sup> | 32.9 | 58.2<sup>**2**</sup> | | | | | | | | | | | | |
-| MiniGPT-v2-Chat | | | | 57.8<sup>**1**</sup> | 60.1 | 62.9<sup>**1**</sup> | 51.5<sup>**1**</sup> | 53.6 | 58.8<sup>**1**</sup> | | | | | | | | | | | | |
+| MiniGPT-v2 | EVA-Clip-g | Linear | LLaMA-2-7B | 56.9<sup>**2**</sup> | 60.3 | 60.6<sup>**2**</sup> | 47.7<sup>**2**</sup> | 32.9 | 58.2<sup>**2**</sup> | | | | | | | | | | | | |
+| MiniGPT-v2-Chat | EVA-Clip-g | Linear | LLaMA-2-7B | 57.8<sup>**1**</sup> | 60.1 | 62.9<sup>**1**</sup> | 51.5<sup>**1**</sup> | 53.6 | 58.8<sup>**1**</sup> | | | | | | | | | | | | |
 | Qwen-VL-Chat | | | Qwen-7B | | 57.5<sup>∗</sup> | | | 38.9 | | 78.2<sup>∗</sup> | 68.2 | 61.5 | | 1487.5| 360.7<sup>**2**</sup> | 60.6 | 56.7 | 58.2 | | | |
 | LLaVA-1.5 | | | Vicuna-1.5-7B | | 62.0<sup>∗</sup> | | | 50.0 | | 78.5<sup>∗</sup> | 66.8 | 58.2 | 85.9<sup>**1**</sup> | 1510.7 | 316.1<sup>+</sup> | 64.3 | 58.3 | 58.6 | 63.4 | 30.5 | 58.7 |
 | LLaVA-1.5 +ShareGPT4V| | | Vicuna-1.5-7B | | | | | 57.2 | | 80.6<sup>**2**</sup> | 68.4 | | | 1567.4<sup>**2**</sup> | 376.4<sup>**1**</sup> | 68.8 | 62.2 | 69.7<sup>**1**</sup> | 72.6 | 37.6 | 63.4<sup>**1**∗</sup> |
