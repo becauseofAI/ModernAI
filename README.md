@@ -52,10 +52,14 @@
 
 ## Multimodal Large Language Model (MLLM) / Large Multimodal Model (LMM) 
 
-| Model | OKVQA | GQA | VSR | IconVQA | VizWiz | HM |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| MiniGPT-v2 | 56.9<sup>2</sup> | 60.3 | 60.6 | 47.7 | 32.9 | 58.2 | 
-| MiniGPT-v2-Chat | 57.8<sup>1</sup> | 60.1 | 62.9 | 51.5 | 53.6 | 58.8 | 
+| Model | MiniGPT-v2  | MiniGPT-v2-Chat |
+| :-: | :-: | :-: |
+| OKVQA | 56.9<sup>2</sup> | 57.8<sup>1</sup> |
+| GQA | 60.3 | 60.1 |
+| VSR | 60.6 | 62.9 |
+| IconVQA | 47.7 | 51.5 |
+| VizWiz | 32.9 | 53.6 |
+| HM | 58.2 | 58.8 |
 
 <details>
 <summary>Paradigm Comparison</summary>
