@@ -65,6 +65,9 @@
 | VILA-13B +ShareGPT4V| | | LLaMA-2-13B | | 63.2<sup>**2**∗</sup> | | | 62.4<sup>**1**</sup> | | 80.6<sup>**2**∗</sup> | 73.1<sup>**2**∗</sup> | 65.3<sup>**2**∗</sup> | 84.8 | 1556.5 | | 70.8<sup>**1**∗</sup> | 65.4<sup>**1**∗</sup> | 61.4 | 78.4<sup>**1**∗</sup> | 45.7<sup>**1**∗</sup> | |
 | | | | | | | | | | | | | | | | | | | | | | |
 
+>\+ indicates ShareGPT4V's (Chen et al., 2023e) re-implemented test results.  
+>∗ indicates that the training images of the datasets are observed during training.
+
 <details>
 <summary>Paradigm Comparison</summary>
 <div align="center"><img src="https://user-images.githubusercontent.com/31701434/275126977-d7a482ac-fa57-4643-a7a8-a210bd3a43d5.png"/></div>  
